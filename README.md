@@ -92,6 +92,12 @@
    
    ![image](https://user-images.githubusercontent.com/76132461/103953808-cf0d1600-5110-11eb-9a3a-11f7a0dace58.png)
    
+   6.- Conclusiones
+   
+   
+   7.- Bibliografía
+   
+   Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
    
  
    
