@@ -40,6 +40,8 @@
    
    5.- Explicación
    
+   5.1.- Procedimiento 
+   
    1. Se ingresa a la plataforma Tinkercad, se crea una cuenta, a continuación en el apartado de circuitos seleccionar nuevo circuito.
    
    2. Se seleccionan los materiales que vamos a utilizar, una placa de pruebas, 5 resistencias, multimetros digitales y dos fuente de voltaje.
@@ -65,5 +67,14 @@
    12. Desde el extremo de la resistencia de 390 kohm se conectara al lado positivo de nuestra fuente de voltaje de 5V.
    
    13. Desde el lado negativo de la fuente de voltaje se conectará a la resistencia de 2.2kohm.
-
+   
+   5.2.- Mida cada una de las corrientes de la malla y anote los resultados en la tabla
+   
+   La tabla cuenta de tres columnas, en la primera columna tenemos el número de nodos con los que el circuito cuenta, depues de analizar el circuito se llega a la conclusión que tiene tres nodos. En la segunda columna, tenemos los resultados analíticos, estos resultados son obtenidos mediante el cálculo de fórmulas. Finalmente, en la tercera columna, obtenemos los resultados experimentales, estos fueron obtenidos con la ayuda del simulador Tinkercad y la conexión de los elementos de medida.
+   
+   
+   
+   
+   
+   
    
