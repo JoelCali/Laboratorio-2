@@ -82,9 +82,15 @@
    
    * Error porcentual malla 1.
    
+   ![image](https://user-images.githubusercontent.com/76132461/103953749-b3097480-5110-11eb-9d03-82223dd67807.png)
+   
    * Error porcentual malla 2.
    
+   ![image](https://user-images.githubusercontent.com/76132461/103953781-c3215400-5110-11eb-99b1-348b6ec955e0.png)
+   
    * Error porcentual malla 3.
+   
+   ![image](https://user-images.githubusercontent.com/76132461/103953808-cf0d1600-5110-11eb-9a3a-11f7a0dace58.png)
    
    
  
