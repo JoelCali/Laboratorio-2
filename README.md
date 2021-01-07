@@ -72,6 +72,10 @@
    
    La tabla cuenta de tres columnas, en la primera columna tenemos el número de nodos con los que el circuito cuenta, depues de analizar el circuito se llega a la conclusión que tiene tres nodos. En la segunda columna, tenemos los resultados analíticos, estos resultados son obtenidos mediante el cálculo de fórmulas. Finalmente, en la tercera columna, obtenemos los resultados experimentales, estos fueron obtenidos con la ayuda del simulador Tinkercad y la conexión de los elementos de medida.
    
+   ![image](https://user-images.githubusercontent.com/76132461/103951411-9ff4a580-510c-11eb-8b0a-0b4bb28cf2dc.png)
+   
+   5.3.- Compare los valores de la tabla y realice sus conclusiones.
+   
    
    
    
