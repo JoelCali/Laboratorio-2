@@ -7,6 +7,7 @@
    - Identificar los nodos que contiene cada circuito para realizar el cálculo de las mallas.
    - Analizar y distinguir las mallas en el circuito para poder resolverlo .
    - Comparar los datos en el simulador como en los resultados calculados y realizar el cálculo del error.
+   
    2.- Marco Teórico
    
    
