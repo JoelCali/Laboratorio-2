@@ -78,7 +78,7 @@
    5.3.- Compare los valores de la tabla y realice sus conclusiones.
    
    En conclusión, como se puede observar en la tabla, los valores varian por unos decimales. Esto es debido a que en el programa Tinkercad redondea hasta dos decimales, de esa manera perdiendo muchas cifras significativas. Mientras tanto, cuando realizamos los resultados analíticos, utilizamos como máximo 3 decimales, por lo que omitimos muchos de ellos, entonces al seguir realizando los cálculos nos puede marcar un pequeño error porcentual.
-   Al ser valores muy próximos y al solo variar por decimales, el error porcentual es muy bajo y en algunos casos nulo, debido a que encanja perfectamente en ambos casos de resultados analíticos y resultados experimentales.}
+   Al ser valores muy próximos y al solo variar por decimales, el error porcentual es muy bajo y en algunos casos nulo, debido a que encanja perfectamente en ambos casos de resultados analíticos y resultados experimentales.
    
    * Error porcentual malla 1.
    
