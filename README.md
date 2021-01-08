@@ -11,7 +11,10 @@
    
    2.- Marco Teórico
    
+   ![image](https://user-images.githubusercontent.com/76134214/103958946-64fa6e00-511c-11eb-9415-cc32a262a1e4.png)
    
+   ![image](https://user-images.githubusercontent.com/76134214/103959108-c6224180-511c-11eb-80fe-8d073d475921.png)
+
    
    3.- Diagramas
    
