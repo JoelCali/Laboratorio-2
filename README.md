@@ -97,6 +97,13 @@
    
    6.- Conclusiones
    
+   * En conclusión, cuando 2 o más elementos (como resistencias, leds, etc.) dentro de un circuito, ya sea serie, paralelo o mixto, están unidos son denominados nodos Y estos permitirán realizar los cálculos de una manera más ordenada.
+
+   * Al analizar los datos que refleja el simulador, el cálculo de error no va más allá de decimales, lo cual significa que el desarrollo del método de circuitos en malla fue correctamente realizado.
+
+   * Concluimos que, al utilizar el método de circuitos de malla, estas se pueden subdividir dependiendo de los nodos y los elementos que conforman el circuito.  
+
+   
    
    7.- Bibliografía
    
